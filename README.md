@@ -1,4 +1,4 @@
-PROBLEM STATEMENTS:- Given a roman numeral, convert it to an integer.
+PROBLEM STATEMENT:- Given a roman numeral, convert it to an integer.
 
 Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
 Symbol       Value
